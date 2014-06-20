@@ -1152,7 +1152,7 @@ template with `binding` and
 The method
 [binding](http://rubydoc.info/stdlib/core/Kernel#binding-instance_method)
 returns a special object. This object is an instance of
-[Binding](http://rubydoc.info/stdlib/core/Binding). A instance of binding knows
+[Binding](http://rubydoc.info/stdlib/core/Binding). An instance of binding knows
 all about the current state of variables and methods within the given scope. In
 this case, `binding` here knows about the variable `meaning_of_life`.
 
